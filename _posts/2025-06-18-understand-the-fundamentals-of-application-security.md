@@ -2,12 +2,12 @@
 layout: post
 title: "Understand the Fundamentals of Application Security"
 author: "Hai Dang"
-date: 2025-06-20 23:55:00 +0700 
+date: 2025-06-18 23:55:00 +0700 
 categories: [security, application-security, fundamentals, cybersecurity]
 tags: [security, appsec, fundamentals, cybersecurity, development, protection]
-
+image: /assets/img/appsec-overview.jpeg
 ---
-
+![Ảnh tổng quan bảo mật ứng dụng]({{ site.baseurl }}/assets/img/appsec-overview.jpeg)
 ## Introduction
 
 In today's interconnected digital landscape, software applications have become the backbone of almost every interaction and operation, from personal communication to complex enterprise systems. This pervasive presence means that securing these applications is not merely an option, but an absolute necessity. A single vulnerability can lead to devastating data breaches, financial losses, and irreparable damage to reputation. This post will delve into the fundamental concepts of application security, highlighting its importance and key aspects.
